@@ -50,7 +50,9 @@ body{
     top: 0;
     left: 0;
 }
-/*::before .carousel-inner öğesinin içeriğinin en başına, tüm diğer içeriklerden "önce" bir boş öğe ekler. burada bir tane boş öğe var aslında onun yüksekliği 100% falan oluyor z-indexi 1 yapılıyor ona arka plan veriliyor.Bu yolla, .carousel-inner öğesinin içeriği değiştirilmeden, üzerine bir katman eklemiş oluyoruz.*/
+/*::before .carousel-inner öğesinin içeriğinin en başına, tüm diğer içeriklerden "önce" bir boş öğe ekler. 
+burada bir tane boş öğe var aslında onun yüksekliği 100% falan oluyor z-indexi 1 yapılıyor ona arka plan veriliyor.
+Bu yolla, .carousel-inner öğesinin içeriği değiştirilmeden, üzerine bir katman eklemiş oluyoruz.*/
 
 .navbar-nav a{
     font-size: 17px;
